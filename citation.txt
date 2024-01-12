@@ -1,0 +1,8 @@
+@article{REPO356,
+    author = "Wang, Peng",
+    journal = "ACM Transactions on Graphics (TOG)",
+    pages = "1 - 11",
+    title = "{OctFormer: Octree-based Transformers for 3D Point Clouds}",
+    volume = "42",
+    year = "2023"
+}
